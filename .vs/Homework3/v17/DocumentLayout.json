@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\University\\C\\Homework3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex14_sortWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex14_sortWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\Homework3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\Homework3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex8_removeDuplicates.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex8_removeDuplicates.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex10_reverseWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex10_reverseWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex13_mostVowels.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex13_mostVowels.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex12_formatSpaces.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex12_formatSpaces.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex11_symmetricalWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex11_symmetricalWords.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex5_symmetricalString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex5_symmetricalString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex2_removeABs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex2_removeABs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex9_checkParentheses.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex9_checkParentheses.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex7_leaveUniques.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex7_leaveUniques.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex4_betweenColons.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex4_betweenColons.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex1_replaceXs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex1_replaceXs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex6_commonChars.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex6_commonChars.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|C:\\D\\University\\C\\Homework3\\Homework3\\ex3_removeEvery3rd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49302037-ED82-43D2-B7D4-9CAFAA3E7832}|Homework3\\Homework3.vcxproj|solutionrelative:Homework3\\ex3_removeEvery3rd.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homework3.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\Homework3.c",
+              "RelativeDocumentMoniker": "Homework3\\Homework3.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\Homework3.c",
+              "RelativeToolTip": "Homework3\\Homework3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T11:58:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ex1_replaceXs.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex1_replaceXs.c",
+              "RelativeDocumentMoniker": "Homework3\\ex1_replaceXs.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex1_replaceXs.c",
+              "RelativeToolTip": "Homework3\\ex1_replaceXs.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T12:25:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ex2_removeABs.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex2_removeABs.c",
+              "RelativeDocumentMoniker": "Homework3\\ex2_removeABs.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex2_removeABs.c",
+              "RelativeToolTip": "Homework3\\ex2_removeABs.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T12:32:32.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ex3_removeEvery3rd.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex3_removeEvery3rd.c",
+              "RelativeDocumentMoniker": "Homework3\\ex3_removeEvery3rd.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex3_removeEvery3rd.c",
+              "RelativeToolTip": "Homework3\\ex3_removeEvery3rd.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T13:01:52.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ex4_betweenColons.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex4_betweenColons.c",
+              "RelativeDocumentMoniker": "Homework3\\ex4_betweenColons.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex4_betweenColons.c",
+              "RelativeToolTip": "Homework3\\ex4_betweenColons.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T13:11:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex5_symmetricalString.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex5_symmetricalString.c",
+              "RelativeDocumentMoniker": "Homework3\\ex5_symmetricalString.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex5_symmetricalString.c",
+              "RelativeToolTip": "Homework3\\ex5_symmetricalString.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T13:36:02.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ex6_commonChars.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex6_commonChars.c",
+              "RelativeDocumentMoniker": "Homework3\\ex6_commonChars.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex6_commonChars.c",
+              "RelativeToolTip": "Homework3\\ex6_commonChars.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAzwCcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T13:43:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ex7_leaveUniques.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex7_leaveUniques.c",
+              "RelativeDocumentMoniker": "Homework3\\ex7_leaveUniques.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex7_leaveUniques.c",
+              "RelativeToolTip": "Homework3\\ex7_leaveUniques.c",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T14:26:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex8_removeDuplicates.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex8_removeDuplicates.c",
+              "RelativeDocumentMoniker": "Homework3\\ex8_removeDuplicates.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex8_removeDuplicates.c",
+              "RelativeToolTip": "Homework3\\ex8_removeDuplicates.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T15:52:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ex9_checkParentheses.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex9_checkParentheses.c",
+              "RelativeDocumentMoniker": "Homework3\\ex9_checkParentheses.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex9_checkParentheses.c",
+              "RelativeToolTip": "Homework3\\ex9_checkParentheses.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T15:57:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex10_reverseWords.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex10_reverseWords.c",
+              "RelativeDocumentMoniker": "Homework3\\ex10_reverseWords.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex10_reverseWords.c",
+              "RelativeToolTip": "Homework3\\ex10_reverseWords.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T16:56:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex11_symmetricalWords.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex11_symmetricalWords.c",
+              "RelativeDocumentMoniker": "Homework3\\ex11_symmetricalWords.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex11_symmetricalWords.c",
+              "RelativeToolTip": "Homework3\\ex11_symmetricalWords.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T17:43:47.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex12_formatSpaces.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex12_formatSpaces.c",
+              "RelativeDocumentMoniker": "Homework3\\ex12_formatSpaces.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex12_formatSpaces.c",
+              "RelativeToolTip": "Homework3\\ex12_formatSpaces.c",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T18:04:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex13_mostVowels.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex13_mostVowels.c",
+              "RelativeDocumentMoniker": "Homework3\\ex13_mostVowels.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex13_mostVowels.c",
+              "RelativeToolTip": "Homework3\\ex13_mostVowels.c",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T18:21:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex14_sortWords.c",
+              "DocumentMoniker": "C:\\D\\University\\C\\Homework3\\Homework3\\ex14_sortWords.c",
+              "RelativeDocumentMoniker": "Homework3\\ex14_sortWords.c",
+              "ToolTip": "C:\\D\\University\\C\\Homework3\\Homework3\\ex14_sortWords.c",
+              "RelativeToolTip": "Homework3\\ex14_sortWords.c",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-09T18:57:35.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

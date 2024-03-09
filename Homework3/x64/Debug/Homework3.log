@@ -1,0 +1,5 @@
+﻿  ex14_sortWords.c
+C:\D\University\C\Homework3\Homework3\ex14_sortWords.c(38,17): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\D\University\C\Homework3\Homework3\ex14_sortWords.c(6,9): warning C4101: 'spaceIndexes': unreferenced local variable
+C:\D\University\C\Homework3\Homework3\ex14_sortWords.c(53,1): warning C4715: 'ex14': not all control paths return a value
+  Homework3.vcxproj -> C:\D\University\C\Homework3\x64\Debug\Homework3.exe
